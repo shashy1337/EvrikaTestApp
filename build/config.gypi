@@ -7,7 +7,7 @@
     "include_dirs": [],
     "libraries": [],
     "msbuild_toolset": "v142",
-    "msvs_windows_target_platform_version": "10.0.19041.0"
+    "msvs_windows_target_platform_version": "10.0.18362.0"
   },
   "variables": {
     "asan": 0,
@@ -401,8 +401,8 @@
     "v8_trace_maps": 0,
     "v8_use_siphash": 1,
     "want_separate_host_toolset": 0,
-    "nodedir": "C:\\Users\\igorvasilcev\\AppData\\Local\\node-gyp\\Cache\\18.16.0",
+    "nodedir": "C:\\Users\\igrok\\AppData\\Local\\node-gyp\\Cache\\18.16.0",
     "standalone_static_library": 1,
-    "msbuild_path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\MSBuild\\Current\\Bin\\MSBuild.exe"
+    "msbuild_path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\MSBuild\\Current\\Bin\\MSBuild.exe"
   }
 }

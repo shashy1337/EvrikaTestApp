@@ -1,8 +1,10 @@
 const express = require('express');
-const addon = require('./build/Release/addon.node'); // файл с вашим node-addon-api
+const addon = require('./build/Release/addon.node'); 
 
 const app = express();
 const port = 3000;
+
+app.use(express.static('./public'));
 
 
 app.get('/', (req, res) => {
