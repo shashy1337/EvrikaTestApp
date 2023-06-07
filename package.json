@@ -1,0 +1,15 @@
+{
+  "name": "testappevrika",
+  "version": "1.0.0",
+  "description": "AppForUsers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-addon-api": "^6.1.0"
+  }
+}
